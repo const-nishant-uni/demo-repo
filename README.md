@@ -1,3 +1,3 @@
 # demo-repo
-Author-Nishant Patil
+Author-Nishant Patil <br>
 Creator-Nishant Patil
